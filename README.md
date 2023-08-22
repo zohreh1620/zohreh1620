@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohreh Rezazadeh
-- 👀 I’m interested in Project Management
-- 🌱 I’m currently learning GIT, Python, Azure Devops
+- 👀 I’m interested in Azure Devops
+- 🌱 I’m currently learning GIT, Python, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
